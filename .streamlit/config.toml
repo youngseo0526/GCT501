@@ -1,0 +1,6 @@
+[server]
+headless = true
+port = 8080  # 원하는 포트로 변경 가능
+enableCORS = false  # 외부 접근을 허용하기 위해 false로 설정
+enableXsrfProtection = false
+serverAddress = "localhost"

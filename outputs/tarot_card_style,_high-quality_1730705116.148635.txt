@@ -1,0 +1,3 @@
+Prompt: tarot card style, high-quality
+
+Negative Prompt: None
